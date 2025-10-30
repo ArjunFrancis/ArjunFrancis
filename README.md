@@ -2,7 +2,7 @@
 
 # Hi, I'm Arjun! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
 
-### 🚀 Technical Founder | Building Insurance Automation for Real Impact
+### 🚀 Former VP of Sales turned Founder | Here to learn, build, fix errors & ship cool things | Open to feedback | Building Reliable AI Agents for Real Impact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arjunfrancis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -19,7 +19,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="30" height="30" /> About Me
 
 🌍 **Based in:** Abu Dhabi, UAE & Bengaluru, India  
-💡 **Currently building:** Insurance automation solutions that streamline operations and create real-world impact  
+💡 **Currently building:** "EchoLabs AI" - LLM / AI Agent Evaluation & Monitoring Platform
+Powerful tool for efficiency & compliant testing of Multi AI Models for enterprise reliability and iteration speed to create real-world impact  
 🎯 **Mission:** Leveraging technology to transform traditional industries through innovative automation  
 📚 **Always learning:** New technologies, AI/ML applications, and modern web development practices
 
@@ -58,7 +59,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Current Projects
 
-🔹 **Insurance Automation Platform** - Building intelligent automation workflows for insurance operations  
+🔹 **LLM-AI Evaluation Platform** - Building advanced tools for efficient, compliant testing of AI models—empowering enterprise reliability, accelerating iteration, and ensuring real-world impact
 🔹 **AI-Powered Document Processing** - Streamlining document handling with machine learning  
 🔹 **Claims Processing System** - Reducing processing time through smart automation  
 🔹 **Free AI Resources Hub** - Curating and sharing valuable AI resources with the community
@@ -69,10 +70,10 @@
 
 <div align="center">
 
-⭐ **[Portfolio Website](https://arjunfrancis.com)** - Check out my projects and achievements  
-⭐ **[Free AI Resources](https://github.com/ArjunFrancis/free-ai-resources-arjun)** - Comprehensive collection of AI tools and resources  
+⭐ **[Portfolio](https://arjun.bz)** - Check out my projects and achievements  
+⭐ **[Free AI Resources](https://github.com/ArjunFrancis/free-ai-resources-arjun)** - Comprehensive collection of Free AI tools and resources  
 ⭐ **Open Source Contributions** - Contributing to the developer community  
-⭐ **Technical Writing** - Sharing knowledge and insights on modern tech
+⭐ **Technical Writing** - Understanding and Sharing knowledge and insights on modern tech
 
 </div>
 
@@ -115,7 +116,7 @@ const arjun = {
 
 <div align="center">
 
-*"Innovation distinguishes between a leader and a follower."* - Steve Jobs
+*"What I cannot create, I do not understand."* - Richard Feynman
 
 <img src="https://komarev.com/ghpvc/?username=ArjunFrancis&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
