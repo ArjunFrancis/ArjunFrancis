@@ -1,114 +1,98 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/26xBSF5aXzC87bF68/giphy.gif" alt="AI Coding Rocket Banner" width="100%" />
+# Hi, I'm Arjun! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40"/>
 
-# Hi, I'm Arjun! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45"/>
+### 🚀 Former VP of Sales turned Founder | Here to Learn & Build | Open to feedback | Building Reliable AI Agents for Real Impact
 
-### 🚀 Founder, Technical Builder, Insurance Industry Expert | Ex-VP of Sales 🧑‍💼 | Building Reliable AI Agents for Real Impact
+<img src="https://media.giphy.com/media/fFvP5KzD4Ro2jdTfQP/giphy.gif" alt="Laptop Productivity" width="120" height="85"/>
+
+</div>
+
+---
+
+## 🌏 About Me
+
+**Based in:** Abu Dhabi, UAE
+
+Currently building EchoLabs AI
+
+LLM/AI Agent Evaluation & Monitoring Platform—Building advanced tools for efficient, compliant AI testing—empowering enterprise reliability, accelerating iteration, and creating real-world impact 
+
+Always learning new Tech, AI/ML, modern web tools
+
+<img src="https://github.com/ArjunFrancis/ArjunFrancis/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+---
+
+## 🌏 Let's Connect, Learn & Grow Together
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arjunfrancis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wellfound.com/u/arjun-francis"><img src="https://img.shields.io/badge/Wellfound-000000?style=flat-square&logo=angellist&logoColor=white" alt="Wellfound"/></a>
-  <a href="https://arjunfrancis.com"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website"/></a>
-  <a href="mailto:arjunfrancis21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://arjun.bz"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website"/></a>
   <a href="https://github.com/ArjunFrancis"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ArjunFrancis&style=flat-square&label=Profile+Views&color=blueviolet" alt="Profile Views"/>
-</p>
-
-<img src="https://media.giphy.com/media/fFvP5KzD4Ro2jdTfQP/giphy.gif" alt="Laptop Productivity" width="120" height="85"/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="30" height="30" /> About Me
-
-🌍 **Based in:** Abu Dhabi, UAE & Bengaluru, India  
-💡 **Currently building:** [EchoLabs AI](https://arjun.bz) – LLM / AI Agent Evaluation & Monitoring Platform  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Workflow Automation" width="300" style="display:block;margin:16px auto;" />
-🧑‍💻 **Mission:** Building advanced tools for efficient, compliant AI testing — empowering enterprise reliability, accelerating iteration, and creating real-world impact.  
-🎯 **Goal:** Transforming traditional industries via relentless automation & AI innovation.
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Tech Stack & Tools
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/lP8xfZzd7cz1hPzFht/giphy.gif" alt="DevTech Animation" width="450" style="margin-bottom:12px;" />
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nodejs,figma,framer,reactnative,vue,supabase,firebase,git,docker,wordpress,wix,aws,azure,apollographql,rest,googleanalytics,github,vscode,tailwindcss,html,css" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Claude%20AI-0A0A0A?style=flat-square&logo=Anthropic&logoColor=white" alt="Claude AI"/>
-<img src="https://img.shields.io/badge/GPT%20Codex-6e57e0?style=flat-square&logo=OpenAI&logoColor=white" alt="GPT Codex"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=LangChain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangSmith-000000?style=flat-square&logo=data&logoColor=white" alt="LangSmith"/>
-<img src="https://img.shields.io/badge/Crew%20AI-000000?style=flat-square&logo=data&logoColor=white" alt="Crew AI"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Cursor%20IDE-161B22?style=flat-square&logo=visualstudiocode&logoColor=blue" alt="Cursor"/>
-<img src="https://img.shields.io/badge/Devin-Code-Affiliate-4bff78?style=flat-square" alt="Devin"/>
-<img src="https://img.shields.io/badge/Warp%20Terminal-000000?style=flat-square&logo=warp&logoColor=white" alt="Warp"/>
-<br/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Current Projects
-
-- **LLM-AI Evaluation Platform:** Building advanced tools for efficient, compliant testing of AI models—empowering enterprise reliability, accelerating iteration, and ensuring real-world impact.
-- **AI-Powered Document Processing:** Streamlining document flow with ML magic and automation.
-- **Claims Processing System:** Automating insurance claims pipeline for speed & accuracy.
-- **Free AI Resources Hub:** [Explore Free AI Tools & Resources ➔](https://github.com/ArjunFrancis/free-ai-resources-arjun)
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Explore My Work & Achievements
-
-<div align="center">
-  <a href="https://arjun.bz"><img src="https://img.shields.io/badge/Portfolio-arjun.bz-blueviolet?style=flat-square" alt="Portfolio"/></a>
-  <a href="https://github.com/ArjunFrancis/free-ai-resources-arjun"><img src="https://img.shields.io/badge/Free%20AI%20Resources-GitHub-22272E?style=flat-square" alt="Free AI Resources"/></a>
-  <img src="https://img.shields.io/badge/Technical%20Writing-Insights-informational?style=flat-square" alt="Technical Writing"/>
-  <img src="https://img.shields.io/badge/YC%20Applicant-Startup-orange?style=flat-square" alt="YC Applicant"/>
-  <img src="https://img.shields.io/badge/Insurance%20Tech-Expert-green?style=flat-square" alt="Insurance Tech"/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="30" height="30" /> Learning & Growth
-```javascript
-const arjun = {
-currentFocus: ['AI Agents', 'Insurance Tech', 'Cloud', 'Startup Building'],
-learning: ['LangChain', 'DevOps', 'Next-Level Prompting', 'Multi-model LLMs'],
-interests: ['Product Innovation', 'Technical Sales', 'Automation', 'Data Science'],
-goal: 'Scale impact with automation, always ship, always grow.'
-}
-```
-
----
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArjunFrancis&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunFrancis&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github.com/ArjunFrancis/ArjunFrancis/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
 
+## 🧰 My Tool Box
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Innovation%20for%20Real%20Impact;Open%20to%20collaboration%20and%20feedback;Shipping%20products%20at%20startup%20speed;Learning%20and%20building%20daily!&center=true&width=440&color=39FF14" alt="Typing SVG"/>
+
+**Languages & Frontend**  <br>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=62DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Styling & Design**  <br>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
+
+**Cloud & Backend**  <br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Dev & AI Tools**  <br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+![Rest API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-0A0A0A?style=for-the-badge&logo=Anthropic&logoColor=white)
+![GPT Codex](https://img.shields.io/badge/GPT_Codex-6e57e0?style=for-the-badge&logo=OpenAI&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=data&logoColor=white)
+![Crew AI](https://img.shields.io/badge/Crew_AI-000000?style=for-the-badge&logo=data&logoColor=white)
+![Devin](https://img.shields.io/badge/Devin-4bff78?style=for-the-badge)
+![Warp](https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white)
+
 </div>
 
 ---
 
-<div align="center">
-  <em>"What I cannot create, I do not understand." — Richard Feynman</em>
-  <br/>
-  <img src="https://media.giphy.com/media/xT9DPpf0zTqRASyzTi/giphy.gif" alt="Feynman Creativity GIF" width="220" style="margin-top:16px;" />
-</div>
+## 🚀 Current Projects
+
+- **EchoLabs AI-LLM-AI Evaluation Platform:** Enterprise-grade AI Eval & monitoring  
+- **E-Care BOTS:** AI-Powered Document Processing & Patient Registry Streamliner for HealthCare & Insurance Industry
+- **Free AI Resources Hub:** [Explore ➔](https://github.com/ArjunFrancis/free-ai-resources-arjun)
 
 ---
+
+<div align="center">
+  <em>“What I cannot create, I do not understand.” — Richard Feynman</em>
+</div>
