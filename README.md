@@ -4,8 +4,6 @@
 
 ### 🚀 Former VP of Sales turned Founder | Here to Learn & Build | Open to feedback | Building Reliable AI Agents for Real Impact
 
-<img src="https://media.giphy.com/media/fFvP5KzD4Ro2jdTfQP/giphy.gif" alt="Laptop Productivity" width="120" height="85"/>
-
 </div>
 
 ---
@@ -19,8 +17,6 @@ Currently building EchoLabs AI
 LLM/AI Agent Evaluation & Monitoring Platform—Building advanced tools for efficient, compliant AI testing—empowering enterprise reliability, accelerating iteration, and creating real-world impact 
 
 Always learning new Tech, AI/ML, modern web tools
-
-<img src="https://github.com/ArjunFrancis/ArjunFrancis/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 ---
 
