@@ -18,23 +18,19 @@ OpenHR:
 🌏 www.openhr.com
 
 Open-source HR platform connecting founders with technical co-founders.
-
 Simple & Reimagined UI with only signals that cuts all noises.
-
 Finds the right co-founders using Agentic workflow with skill sync algothirm and MCP extensions
 
 E-Care Bots:
 🌏 www.ecarebots.com
 
 A hands-free, multi-modal care platform elderly/disabled users those with mobility, vision, or motor challenges, ordinary computers lead to dependence and frustration.
-
 Users can interact using voice 🗣️ and gestures ✋ for vital actions: alerts, reminders, queries — perfect for elderly, disabled, or anyone in assisted-living or tough accessibility scenarios.
 
 EchoLabs AI:
 🌏 www.echolabs-ai.com
 
 LLM/AI Agent Evaluation & Monitoring Platform—Building advanced tools for efficient, compliant AI testing—empowering enterprise reliability, accelerating iteration, and creating real-world impact 
-
 Always questioning, and being curious is helping me learn how to learn and teach myself new Tech, AI/ML, modern web tools that serves a purpose.
 
 ---
