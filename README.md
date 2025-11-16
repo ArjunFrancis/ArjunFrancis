@@ -15,7 +15,7 @@ Curious learner completing to-do lists.
 Current Projects: 
 
 OpenHR:
-🌏 www.openhr.com 
+🌏 www.openhr.work 
 
 Open-source HR platform connecting founders with technical co-founders.
 Simple & Reimagined UI with only signals that cuts all noises.
