@@ -2,7 +2,7 @@
 
 # Hi, I'm Arjun! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40"/>
 
-### 🚀 Former VP of Sales turned Founder | Here to Learn & Build | Open to feedback | Building Reliable AI Agents for Real Impact
+### 🚀 Former VP of Sales turned Founder | Here to Learn & Build | Open to feedback | Building Reliable AI Agents for Real World Impact
 
 </div>
 
@@ -31,6 +31,7 @@ EchoLabs AI:
 🌏 www.echolabs-ai.com
 
 LLM/AI Agent Evaluation & Monitoring Platform—Building advanced tools for efficient, compliant AI testing—empowering enterprise reliability, accelerating iteration, and creating real-world impact 
+
 Always questioning, and being curious is helping me learn how to learn and teach myself new Tech, AI/ML, modern web tools that serves a purpose.
 
 ---
