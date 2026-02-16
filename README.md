@@ -15,7 +15,7 @@ Curious learner completing to-do lists.
 Current Projects: 
 
 OpenHR: 
-🌏 www.openhr.work 
+🌏 www.openhr.work | https://github.com/ArjunFrancis/openhr-agent
 
 OpenHR AI is a 24/7 autonomous agent that discovers your skills, hunts economic opportunities, and takes action to make you money—without you lifting a finger.
 
