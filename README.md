@@ -30,13 +30,15 @@ EchoLabs AI:
 
 LLM/AI Agent Evaluation & Monitoring Platform—Building advanced tools for efficient, compliant AI testing—empowering enterprise reliability, accelerating iteration, and creating real-world impact 
 
-being curious with my agents is helping me learn how to learn and build. I am committed to leveraging ai  & open source learning  to accelerate my mission of creating accessible, free software solutions that bridge the gap between humans, AI, and robotics. 
+---
+
+Being curious with my agents is helping me learn how to learn and build. I am committed to leveraging ai  & open source learning  to accelerate my mission of creating accessible, free software solutions that bridge the gap between humans, AI, and robotics. 
 
 ---
 
-Open to feedback and collaboration, please guide or just send "hi" to arjun@echomindsai.com
+Open to feedback and collaboration, please guide me to fix any errors or just send "hi" to arjun@echomindsai.com
 
-## 🌏 Let's Connect, Learn & Grow Together
+## 🌏 Let's Connect, Learn & Build Together
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arjunfrancis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
