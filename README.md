@@ -2,7 +2,7 @@
 
 # Hi, I'm Arjun! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40"/>
 
-### 🚀 Former VP of Sales turned Founder | Here to Learn & Build | Open to feedback | Building Reliable AI Agents for Real World Impact
+### 🚀 Former VP of Sales turned AI Founder | Builder | Open-Source Learner & Believer | Open to feedback | Now Building Reliable AI Agents for Real World Impact
 
 </div>
 
